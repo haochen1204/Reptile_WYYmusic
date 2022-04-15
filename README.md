@@ -11,3 +11,7 @@
 ## 效果
 
 ![Snipaste_2022-02-13_20-43-12](https://haochen1204.oss-cn-chengdu.aliyuncs.com/web_picture/img/Snipaste_2022-02-13_20-43-12.png)
+
+## 网易云爬虫
+
+打包好的网易云爬虫，仅需双击，根据要求输入歌单网址即可使用。
